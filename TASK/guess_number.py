@@ -9,6 +9,7 @@ import numpy as np
 def binary_predict(number: int = 1) -> int:
     """Предсказывает число за счёт алгоритма бинарного поиска
 
+
     Args:
         number (int, optional): Загаданное число. Defaults to 1.
 
