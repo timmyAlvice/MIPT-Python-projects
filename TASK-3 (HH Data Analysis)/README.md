@@ -28,7 +28,7 @@
 
 #### Графики проекта:
 Так как GitHub не поддерживает визуализацию интерактивных графиков plotly, они сохранены в html формате в отдельную папку
-* [Графики plotly](https://drive.google.com/file/d/1VF6avSFBZ2VQfHLKvbA-0CRJNEIdnMM-/view?usp=sharing)
+* [Графики plotly](https://github.com/timmyAlvice/MIPT-Python-projects/tree/main/TASK-3%20(HH%20Data%20Analysis)/project_plots)
 
 
 ### Этапы работы над проектом  
